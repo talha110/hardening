@@ -123,7 +123,7 @@ function main {
   f_prelink
   f_aptget_configure
   f_aptget
-  f_hosts
+  # f_hosts
   f_issue
   f_sudo
   f_logindefs
@@ -133,7 +133,7 @@ function main {
   f_rootaccess
   f_package_install
   f_coredump
-  f_usbguard
+  #f_usbguard
   f_postfix
   f_apport
   f_motdnews
