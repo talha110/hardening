@@ -110,8 +110,8 @@ function main {
 
   f_pre
   f_kernel
-  f_firewall
-  f_disablenet
+ # f_firewall
+ # f_disablenet
   f_disablefs
   f_disablemod
   f_systemdconf
