@@ -115,7 +115,7 @@ function main {
   f_disablefs
   f_disablemod
   f_systemdconf
-  f_resolvedconf
+  #f_resolvedconf
   f_logindconf
   f_journalctl
   f_timesyncd
