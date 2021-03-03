@@ -109,7 +109,7 @@ function main {
   done
 
   f_pre
-  f_kernel
+ # f_kernel
  # f_firewall
  # f_disablenet
   f_disablefs
